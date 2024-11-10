@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { FaLinkedin, FaGithub, FaWhatsapp, FaEnvelope } from 'react-icons/fa';
+// import { FaLinkedin, FaGithub, FaWhatsapp, FaEnvelope } from 'react-icons/fa';
 import Link from 'next/link';
 
 const HomePage = () => {
@@ -13,13 +13,13 @@ const HomePage = () => {
                     height={150}  
                     className="rounded-full mb-6 shadow-xl"
                 />
-                <h3 className="text-2xl font-semibold text-white">Hello, I'm</h3>
+                <h3 className="text-2xl font-semibold text-white">Hello, I&apos;m</h3>
                 <h1 className="text-5xl font-extrabold text-white mt-2">Muhammad Hamza</h1>
                 
                 <p className="mt-6 text-lg max-w-3xl mx-auto text-center text-white opacity-90">
-                    I'm a passionate web developer with a focus on frontend technologies like React, Vue, and Tailwind CSS. 
+                I&apos;m a passionate web developer with a focus on frontend technologies like React, Vue, and Tailwind CSS. 
                     I enjoy bringing ideas to life by creating beautiful, responsive, and user-friendly web applications.<br />
-                    Whether it's building dynamic UIs or improving backend systems, I love solving complex problems and optimizing code.<br />
+                    Whether it&apos;s building dynamic UIs or improving backend systems, I love solving complex problems and optimizing code.<br />
                     Let's collaborate and build something amazing together!
                 </p>
 
