@@ -1,6 +1,8 @@
 import Image from 'next/image';
+
 // import { FaLinkedin, FaGithub, FaWhatsapp, FaEnvelope } from 'react-icons/fa';
 import Link from 'next/link';
+
 
 const HomePage = () => {
     return (
