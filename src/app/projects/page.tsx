@@ -37,7 +37,7 @@ This site is crafted to bring car enthusiasts closer to the details they value. 
                         </a>
                         <Image
                             src="/car.png"
-                            alt="Analog Clock Project Screenshot"
+                            alt="Car website Screenshot"
                             width={400}
                             height={400}
                             className="rounded-lg shadow-md border"
